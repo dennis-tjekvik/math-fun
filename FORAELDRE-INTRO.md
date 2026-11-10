@@ -8,10 +8,10 @@ Teksten er skrevet uden markdown-formatering, så den kan kopieres direkte ind i
 
 ```
 Hej! 👋
-Vi bruger et lille matematikspil til børn, som virker rigtig godt hos os: Math Fun – Regneeventyret 🧮
+Min mand Dennis har lavet et lille matematikspil til vores børn. Det virker rigtig godt hos os, så nu deler vi det gerne: Math Fun – Regneeventyret 🧮
 👉 https://dennis-tjekvik.github.io/math-fun/
 
-Det er gratis og uden login. Alt gemmes kun på jeres egen telefon eller tablet, og intet sendes nogen steder hen. Det passer til børn fra børnehave til 6. klasse, og appen finder selv barnets niveau. De mindste kan få opgaverne læst op, så de behøver ikke kunne læse.
+Det er helt gratis, og der er ingen hage: ingen reklamer, intet login og ingen dataindsamling. Dennis har lavet det, fordi vi selv manglede det, ikke for at tjene penge på det. Alt gemmes kun på jeres egen telefon eller tablet, og intet sendes nogen steder hen. Det passer til børn fra børnehave til 6. klasse, og appen finder selv barnets niveau. De mindste kan få opgaverne læst op, så de behøver ikke kunne læse.
 
 🚀 SÅDAN KOMMER I I GANG (5 min sammen med barnet)
 1. Åbn linket. Tip: Vælg "Føj til hjemmeskærm" (Del-knappen på iPhone, ⋮-menuen på Android). Så ligner det en app og virker også uden net.
@@ -57,8 +57,8 @@ God fornøjelse! ✨
 ## Kort version (sms)
 
 ```
-Hej! Vi bruger et matematikspil til børn (børnehave til 6. kl.), som virker super godt hos os: https://dennis-tjekvik.github.io/math-fun/
-Det er gratis og uden login, og alt gemmes kun på jeres egen enhed.
+Hej! Min mand Dennis har lavet et matematikspil til vores børn (det passer fra børnehave til 6. kl.), og det virker super godt hos os: https://dennis-tjekvik.github.io/math-fun/
+Det er gratis uden hage: ingen reklamer, intet login og ingen dataindsamling. Alt gemmes kun på jeres egen enhed.
 
 VIGTIGT: Den første runde i hver verden måler barnets niveau i det skjulte. Hjælp IKKE med regningen der. Fejl er meningen! Hjælper I, bliver opgaverne bagefter for svære.
 
