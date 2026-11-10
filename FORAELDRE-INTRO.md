@@ -1,7 +1,6 @@
 # Intro til forældre (til Messenger og sms)
 
 Teksten er skrevet uden markdown-formatering, så den kan kopieres direkte ind i Messenger eller en sms.
-Husk at sætte det rigtige link ind i stedet for `[LINK]`.
 
 ---
 
@@ -10,7 +9,7 @@ Husk at sætte det rigtige link ind i stedet for `[LINK]`.
 ```
 Hej! 👋
 Vi bruger et lille matematikspil til børn, som virker rigtig godt hos os: Math Fun – Regneeventyret 🧮
-👉 [LINK]
+👉 https://dennis-tjekvik.github.io/math-fun/
 
 Det er gratis og uden login. Alt gemmes kun på jeres egen telefon eller tablet, og intet sendes nogen steder hen. Det passer til børn fra børnehave til 6. klasse, og appen finder selv barnets niveau. De mindste kan få opgaverne læst op, så de behøver ikke kunne læse.
 
@@ -58,7 +57,7 @@ God fornøjelse! ✨
 ## Kort version (sms)
 
 ```
-Hej! Vi bruger et matematikspil til børn (børnehave til 6. kl.), som virker super godt hos os: [LINK]
+Hej! Vi bruger et matematikspil til børn (børnehave til 6. kl.), som virker super godt hos os: https://dennis-tjekvik.github.io/math-fun/
 Det er gratis og uden login, og alt gemmes kun på jeres egen enhed.
 
 VIGTIGT: Den første runde i hver verden måler barnets niveau i det skjulte. Hjælp IKKE med regningen der. Fejl er meningen! Hjælper I, bliver opgaverne bagefter for svære.
